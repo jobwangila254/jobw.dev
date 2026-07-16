@@ -414,7 +414,15 @@ ul {
   font-weight: 600;
   color: var(--text-light);
   line-height: 1.2;
+  margin-bottom: 16px;
+}
+
+.hero-subtitle {
+  font-size: clamp(0.95rem, 2vw, 1.25rem);
+  color: var(--text-light);
+  opacity: 0.7;
   margin-bottom: 24px;
+  font-weight: 400;
 }
 
 .hero-typing-wrapper {
@@ -1089,6 +1097,7 @@ ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
   gap: 28px;
+  justify-items: center;
 }
 
 .testimonial-card {

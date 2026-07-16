@@ -10,9 +10,9 @@
     pauseAfterWord: 2000,
     pauseBeforeDelete: 1000,
     words: [
-      'Full-Stack Developer',
+      'Full-Stack Software Engineer',
       'IT Operations Specialist',
-      'Problem Solver'
+      'Cybersecurity Professional'
     ],
     stats: {
       threshold: 0.5,
