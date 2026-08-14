@@ -10,9 +10,11 @@
     pauseAfterWord: 2000,
     pauseBeforeDelete: 1000,
     words: [
-      'Full-Stack Software Engineer',
-      'IT Operations Specialist',
-      'Cybersecurity Professional'
+      'IT Support Specialist',
+      'Cybersecurity Operations',
+      'Network Administrator',
+      'Full-Stack Developer',
+      'Remote-Ready Professional'
     ],
     stats: {
       threshold: 0.5,
